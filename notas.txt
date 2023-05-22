@@ -32,3 +32,5 @@ Sincroniza la rama remota con lo que hay en la local.
 en otras palabras, sube los commits que hay en la local y faltan en la remota.
 Ej. git push
 
+Integracion de ramas: para este fin, se utiliza la operacion "merge", un merge combina los contenidos de una rama hacia otra.
+en un solo comitt conocido como un "merge commit"
