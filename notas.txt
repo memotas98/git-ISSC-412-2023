@@ -32,3 +32,6 @@ Sincroniza la rama remota con lo que hay en la local.
 en otras palabras, sube los commits que hay en la local y faltan en la remota.
 Ej. git push
 
+
+Ramas:
+TODO: Agregar definicion de ramas.
