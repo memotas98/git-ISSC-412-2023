@@ -36,3 +36,6 @@ Ej. git push
 Ramas:
 Las ramas nos permiten trabajar con el repositorio sin alterar la estabilidad de la rama principal,
 como cualquier otra rama hay una local y una remota, las ramas parten de un commit de origen.
+
+Integracion de ramas: para este fin, se utiliza la operacion "merge", un merge combina los contenidos de una rama hacia otra.
+en un solo comitt conocido como un "merge commit"
