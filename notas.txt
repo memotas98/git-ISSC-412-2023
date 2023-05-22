@@ -34,4 +34,5 @@ Ej. git push
 
 
 Ramas:
-TODO: Agregar definicion de ramas.
+Las ramas nos permiten trabajar con el repositorio sin alterar la estabilidad de la rama principal,
+como cualquier otra rama hay una local y una remota, las ramas parten de un commit de origen.
